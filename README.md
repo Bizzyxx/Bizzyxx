@@ -1,6 +1,6 @@
 
 <div align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=0DF6FF&width=700&lines=System-level+Architect.;1337+in+the+Making.;C%2B%2B+Fanatic.;Rust+Apprentice.;Windows+Kernel+Manipulator.;Breaking+Code+%3E+Fixing+Code.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=0DF6FF&width=700&lines=System-level+Architect.;1337;C%2B%2B+Fanatic.;Windows+Kernel+Is+My+Girl;">
 </div>
 
 ---
