@@ -7,25 +7,6 @@
 
 # Bizzy  
 
-**Retarded || Location -> K2_GetActorLocation**
-
----
-
-### 🛠️ **Skills in Progress**
-- **Windows Kernel & Systems Programming**: Exploring the depths of **C++**, **C**, and low-level architecture since i dont like Anti-Cheats.  
-- **Web Basics**: Applying **HTML + JS** for clean and functional designs since i get bored.  
-- **Rust**: Learning safe, modern system programming for concurrency and reliability since its retarded.  
-
----
-
-### ⚡ **Highlights**
-- **C++**: Have Around 4 Years Of Experince Now.  
-- **Windows Kernel**: Bit Funny Found Some Cool Stuff Ig.  
-- **Rust**: Most Aids Coding Language i have ever touched.  
-- **HTML/JS**: I like making websites.  
-- **Unreal Engine**: Enjoyed Learning how ue works.  
-
----
 
 ### ⚙️ **Tools I Work With**
 <p align="center">
@@ -40,13 +21,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bizzyxx&theme=tokyonight" alt="GitHub Streaks">
 </p>
 
----
-
-### 🎯 **Current Mission** 
-- Exploring **Rust**.  
-- **Hypervisor in Rust**.  
-
----
 
 <div align="center">
   <img src="https://media1.tenor.com/m/pgJlN1XezjoAAAAd/programming-rust.gif" alt="Code GIF" width="400">
